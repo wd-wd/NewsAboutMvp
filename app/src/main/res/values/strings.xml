@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyNewsSample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="username">有爱的梦</string>
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_about">关于</string>
+    <string name="load_fail">数据加载失败</string>
+    <string name="back_again_exit">再按一次退出程序</string>
+    <string-array name="newsAraay">
+        <item name="top">头条</item>
+        <item name="nba">NBA</item>
+        <item name="car">汽车</item>
+        <item name="joke">笑话</item>
+    </string-array>
+</resources>
